@@ -88,4 +88,11 @@ Breadboard Circuit [made in fritzing]:
 3D model
 <img width="1512" height="982" alt="Screenshot 2026-03-23 at 11 35 00 PM" src="https://github.com/user-attachments/assets/4686a3b5-aa86-4fe5-8b7c-f6703ce3dcdd" />
 
+Final Look
+<img width="1512" height="982" alt="Screenshot 2026-04-01 at 9 47 02 AM" src="https://github.com/user-attachments/assets/71c2a13f-bdf1-4725-9584-8a2166db18d6" />
+
+<img width="1512" height="982" alt="Screenshot 2026-04-01 at 9 47 09 AM" src="https://github.com/user-attachments/assets/5af1ea6b-21f8-49c2-92b8-4438b8bd9f88" />
+
+
+
 
