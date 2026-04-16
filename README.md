@@ -1,5 +1,8 @@
 # spotify-display
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/88e36852-65c4-4a37-8e03-d5e3e7ecd1a5" />
+
+
 What This Project Is
 
 This project is a real-time display of the Spotify API. It displays the song playing on Spotify, the artist of the song, and the status of the song playing or not on a display connected to an ESP32 microcontroller.
